@@ -30,4 +30,5 @@ public class Taxi {
     public void setBusiness(boolean business) {
         this.business = business;
     }
+
 }
