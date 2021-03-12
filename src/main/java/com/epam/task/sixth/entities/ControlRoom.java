@@ -61,4 +61,5 @@ public class ControlRoom {
         return Math.pow((taxi.getPointX() - pointX),2) + Math.pow((taxi.getPointY() - pointY),2) <
                 Math.pow(REQUIRED_DISTANCE,2);
     }
+
 }

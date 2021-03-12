@@ -40,4 +40,5 @@ public class Client implements Runnable {
     public void setServed(boolean served) {
         this.served = served;
     }
+
 }
