@@ -1,0 +1,24 @@
+{
+  "taxis": [
+    {
+      "pointX": 0.5,
+      "pointY": 0.5,
+      "id": 1
+    },
+    {
+      "pointX": 2.5,
+      "pointY": 1.5,
+      "id": 2
+    },
+    {
+      "pointX": 3.5,
+      "pointY": 2.5,
+      "id": 3
+    },
+    {
+      "pointX": 4.5,
+      "pointY": 3.5,
+      "id": 4
+    }
+  ]
+}

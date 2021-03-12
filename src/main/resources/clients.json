@@ -1,0 +1,25 @@
+{
+  "clients": [
+    {
+      "pointX": 1,
+      "pointY": 1,
+      "id": 1
+
+    },
+    {
+      "pointX": 2,
+      "pointY": 2,
+      "id": 2
+    },
+    {
+      "pointX": 3,
+      "pointY": 3,
+      "id": 3
+    },
+    {
+      "pointX": 4,
+      "pointY": 4,
+      "id": 4
+    }
+  ]
+}
